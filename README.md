@@ -12,8 +12,8 @@ This app shows the Durango Coders membership list by using the Meetup.com API (h
 2. Get your Meetup.com API Key (http://www.meetup.com/meetup_api/key/)
 3. Run the app with the following commands
 
-    bundle  #installs dependencies
-    bundle exec rake MEETUP_API_KEY=<Your Meetup API key>
+      bundle  #installs dependencies
+      bundle exec rake MEETUP_API_KEY=<Your Meetup API key>
 
 Note: You can also create a .env file in the project root that contains your Meetup API Key
 
