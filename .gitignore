@@ -1,0 +1,10 @@
+.repl_history
+build
+resources/*.nib
+resources/*.momd
+resources/*.storyboardc
+tags
+provisioning
+./vendor/bundle
+.env
+ib.xcodeproj
